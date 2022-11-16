@@ -1,5 +1,7 @@
 ### Liked images by users on [playgroundai.com](https://playgroundai.com)
 
+Data set size: 137,719
+
 Fields:
 
 - userId
