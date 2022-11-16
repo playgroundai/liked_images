@@ -18,3 +18,9 @@ All information about users has been de-anonymized. No images that were hidden o
 If you build anything interesting, please let us know at support@playgroundai.com.
 
 Do not be evil.
+
+## FAQ
+
+Does it have the number of likes an image has?
+
+> Each row is a user liking an image. You can just group the data by a given imageId to get the number of likes.
