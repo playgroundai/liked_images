@@ -17,7 +17,7 @@ Fields:
 - steps
 - source
 
-All information about users has been de-anonymized. No images that are were hidden or private as of Nov 15 - 5:37 PM PT were included.
+All information about users has been anonymized. No images that are were hidden or private as of Nov 15 - 5:37 PM PT were included.
 
 If you build anything interesting, please let us know at support@playgroundai.com.
 
