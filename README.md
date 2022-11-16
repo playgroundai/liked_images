@@ -1,6 +1,8 @@
 ### Liked images by users on [playgroundai.com](https://playgroundai.com)
 
-Data set size: 137,719
+Data set size: 
+- 137,719 likes
+- 87,719 unique images
 
 Fields:
 
